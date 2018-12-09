@@ -17,4 +17,4 @@ React Native app for Hackkings 5.0
 
 * `$npm start`
 
-* Make sure you have Expo downloaded to see all the cool features ;-)
+* Make sure you have Expo downloaded from the App Store or Play Store to see all the cool features ;-)
