@@ -1,8 +1,17 @@
-# SocialApp made for Hackkings 5.0
+# SocialApp 
+React Native app for Hackkings 5.0
 
-To Run:
+## Installation
 
-$npm install
-$npm start
+* Install dependencies `brew install node watchman`
+  * *Make sure you have node version 4 or newer*
+* Install react-native `npm install -g react-native-cli`
 
-make sure you have Expo downloaded to see all the cool features ;-)
+
+## To Run:
+
+* `$npm install`
+
+* `$npm start`
+
+* Make sure you have Expo downloaded to see all the cool features ;-)
