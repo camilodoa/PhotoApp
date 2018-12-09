@@ -1,4 +1,4 @@
-# SocialApp 
+# PhotoApp 
 React Native app for Hackkings 5.0
 
 ## Installation
