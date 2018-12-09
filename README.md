@@ -3,10 +3,12 @@ React Native app for Hackkings 5.0
 
 ## Installation
 
-* Install dependencies `$brew install node`
+* Install dependencies 
+ * *`$brew install node`
  * * `$brew install watchman`
   * *Make sure you have node version 4 or newer*
-* Install react-native `$npm install -g react-native-cli`
+* Install react-native 
+ * * `$npm install -g react-native-cli`
 
 
 ## To Run:
