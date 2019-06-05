@@ -16,7 +16,7 @@ export default class App extends Component<Props> {
   constructor(props){
     super(props);
     this.state = {
-      count: 0,
+      count: 53,
       loves: dataSet,
       modalVisible: false
 
@@ -30,16 +30,6 @@ export default class App extends Component<Props> {
     this.unLoveImage = this.unLoveImage.bind(this);
   }
 
-   addOne(){
-     console.log("add one before");
-    this.setState({ count: this.state.count + 1 });
-    console.log("add one after");
-  }
-
-   subtractOne(){
-    this.setState({ count: this.state.count - 1 });
-    console.log("5");
-  }
 
   loveImage(id) {
     var newList = this.state.loves
