@@ -1,5 +1,5 @@
 # PhotoApp 
-React Native app for Hackkings 5.0
+Application for Hackkings 5.0 made in React-Native
 
 ## Installation
 
