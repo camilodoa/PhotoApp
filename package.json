@@ -19,7 +19,7 @@
     "node-fetch": "^2.6.1",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "set-value": "^2.0.1",
+    "set-value": "^4.0.1",
     "ws": "^7.0.0",
     "yargs-parser": "^13.1.2"
   },
